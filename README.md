@@ -1,3 +1,7 @@
+# Click this link: https://zhangori000.github.io/Fashion-finder/
+I will add more functionality. This is just a template; there are quite a few weird things, such as Emails and such.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
