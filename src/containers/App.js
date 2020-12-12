@@ -44,7 +44,7 @@ class App extends React.Component {
                     <SearchBox searchChange={this.onSearchChange}/>
                     <Scroll>
                         <CardList robots={filteredRobots}/>
-                    </Scroll>
+                    </Scroll> 
                 </div>
             );
         }
